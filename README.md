@@ -57,5 +57,3 @@ I'm a Full Stack Developer with a passion for creating web applications and lear
 - AWS, Azure
 - Git, GitHub, GitLab
 
-## 📈 GitHub Stats
-![Arpit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arpit-K-Sharma&show_icons=true&theme=radical)
