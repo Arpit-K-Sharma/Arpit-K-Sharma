@@ -30,9 +30,6 @@ I'm a Full Stack Developer with a passion for creating web applications and lear
 - [GitHub](https://github.com/Arpit-K-Sharma)
 - [LinkedIn](https://www.linkedin.com/in/arpit-sharma-415aa7281/)
 
-## 😄 Pronouns
-- He/Him
-
 ## ⚡ Fun fact
 - I love playing video games and read manga in my free time.
 
