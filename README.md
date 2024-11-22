@@ -41,7 +41,7 @@ I'm a Full Stack Developer with a passion for creating web applications and lear
 
 ### 🖥️ Backend
 - Java, Python
-- Springboot, Fast API
+- Springboot, Fast API, Express
 - RESTful APIs
 
 ### 🗄️ Databases
